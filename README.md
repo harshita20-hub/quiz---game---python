@@ -3,4 +3,4 @@
 This is a simple quiz game project made using Python.
 ## Output Screenshot
 
-![Quiz Output](Outputscreenshot.jpeg)
+(Outputscreenshot.jpeg)
