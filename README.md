@@ -13,7 +13,7 @@ This is a simple quiz game project made using Python. It asks multiple-choice qu
 - Pranvi
 - Kushal sangwan
 - Jatin godara
-- Pranjal
+  
 
 ## How to Run
 python quiz_game.py
