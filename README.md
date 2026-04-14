@@ -1,6 +1,6 @@
-## Output Screenshot
+# Quiz Game using Python
 
-![Quiz Output](small.jpeg)# Quiz Game using Python
+This is a simple quiz game project made using Python.## Output Screenshot
 
-This is a simple quiz game project made using Python.
+![Quiz Output](small.jpeg)
 
