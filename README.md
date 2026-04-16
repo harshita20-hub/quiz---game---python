@@ -10,9 +10,7 @@ This is a simple quiz game project made using Python. It asks multiple-choice qu
 
 ## Group Members
 - Harshita(2236)
-- Pranvi
-- Kushal sangwan
-- Jatin godara
+  
   
 
 ## How to Run
